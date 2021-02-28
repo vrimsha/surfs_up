@@ -3,8 +3,8 @@
 
 Collect temperature data for the months of June and December in Oahu, Hawaii in order to determine if the surf and ice cream shop business is sustainable year-round there.
 
-Deliverable 1: Determine the Summary Statistics for June
-Deliverable 2: Determine the Summary Statistics for December
+<br>Deliverable 1: Determine the Summary Statistics for June</br>
+<br>Deliverable 2: Determine the Summary Statistics for December</br>
 
 ## Results: 
 #Deliverable 1: Determine the Summary Statistics for June
