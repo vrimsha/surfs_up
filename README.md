@@ -24,7 +24,7 @@ Collect temperature data for the months of June and December in Oahu, Hawaii in 
 - Calculate and print out the summary statistics for the December temperature DataFrame.
 
 
-![December_temperature](December temperature.png)
+![December_temperature](December_temperature.png)
 
 
 - June month has higher temperature 85 Fahrenheit compare to December 83 Fahrenheit, both months will work for the ice cream shop.
