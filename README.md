@@ -15,7 +15,7 @@ Deliverable 2: Determine the Summary Statistics for December
 
 
 
-!(June_temperature)[June_temperature.png]
+![June_temperature](June_temperature.png)
 
 #Deliverable 2:Determine the Summary Statistics for December 
 - Write a query that filters the Measurement table to retrieve the temperatures for the month of December.
@@ -24,7 +24,7 @@ Deliverable 2: Determine the Summary Statistics for December
 - Calculate and print out the summary statistics for the December temperature DataFrame.
 
 
-!(December_temperature)[December temperature.png]
+![December_temperature](December temperature.png)
 
 
 - June month has higher temperature 85 Fahrenheit compare to December 83 Fahrenheit, both months will work for the ice cream shop.
@@ -41,8 +41,8 @@ As summary, June is perfect month for the surf and ice cream shop business, beca
 Additional queries:
 Precipitation Data of the month June:
 
-!(Rain_Statistics_June)[Rain_Statistics_June.png]
+![Rain_Statistics_June](Rain_Statistics_June.png)
 
 
 Precipitation Data of the month December:
-!(Rain_Statistics_December)[Rain_Statistics_December.png]
+![Rain_Statistics_December](Rain_Statistics_December.png)
